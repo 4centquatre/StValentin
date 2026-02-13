@@ -25,7 +25,7 @@ if "booleen2" not in st.session_state:
 
 
 if st.session_state.step == "debut":
-    st.image("image3.png")
+    st.image("Image3.png")
     st.image("image.png")
 
     col1,col2,col3,col4,col5,col6,col7,col8,col9,col10 = st.columns(10)
